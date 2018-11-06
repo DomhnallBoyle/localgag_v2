@@ -1,0 +1,6 @@
+localgag/fixtures.json
+localgag.ini
+db.sqlite3
+.idea/
+.tox/
+LocalGag_API.egg-info/
